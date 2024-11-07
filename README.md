@@ -8,7 +8,7 @@ Off-Platform Project: Fotomatic
 
 ## About the Project
 
-Codecademy full-stack path's off=platform project: Fotomatic practising the html, css, grid, and flexbox. 
+Codecademy full-stack path's off-platform project: Fotomatic practising the html, css, grid, and flexbox. 
 
 ## Contact
 
